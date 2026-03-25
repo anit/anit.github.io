@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://anit.vercel.app/", // update after Vercel deploy
+  website: "https://anit.github.io/",
   author: "Anit Rai",
   profile: "",
   desc: "Fractional CTO & Infrastructure Architect. I help startups build reliable infra and ship faster.",
