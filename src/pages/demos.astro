@@ -1,0 +1,39 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Main from "@/layouts/Main.astro";
+---
+
+<Layout title="Live Demos | Anit Rai">
+  <Main pageTitle="Live Demos" pageDesc="Interactive demos of real architectural patterns. Each demo is simulated — no live cloud costs incurred. Every demo links to the real implementation writeup.">
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 mt-6">
+
+      <div class="rounded-lg border border-border p-6 flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">🪪 KYC Face Check</h2>
+        <p class="text-sm flex-1">Simulate an identity verification flow using AWS Rekognition pattern. Capture photo → analyse → match result.</p>
+        <div class="flex flex-col gap-2">
+          <a href="/demos/kyc" class="rounded bg-accent px-4 py-2 text-center text-sm font-medium text-white hover:opacity-90">Try Demo →</a>
+          <a href="/posts/kyc-rekognition-sauce" class="text-center text-sm text-accent hover:underline">Read the implementation ↗</a>
+        </div>
+      </div>
+
+      <div class="rounded-lg border border-border p-6 flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">💸 AWS Cost Audit</h2>
+        <p class="text-sm flex-1">Paste a mock AWS bill and get a simulated waste analysis report — the same process I run for clients.</p>
+        <div class="flex flex-col gap-2">
+          <a href="/demos/cost-audit" class="rounded bg-accent px-4 py-2 text-center text-sm font-medium text-white hover:opacity-90">Try Demo →</a>
+          <a href="/posts/aws-cost-audit-sauce" class="text-center text-sm text-accent hover:underline">Read the implementation ↗</a>
+        </div>
+      </div>
+
+      <div class="rounded-lg border border-border p-6 flex flex-col gap-3">
+        <h2 class="text-xl font-semibold">🔍 Smart Search</h2>
+        <p class="text-sm flex-1">Type a query and see a simulated Elasticsearch response with relevance scores and dynamic filters.</p>
+        <div class="flex flex-col gap-2">
+          <a href="/demos/search" class="rounded bg-accent px-4 py-2 text-center text-sm font-medium text-white hover:opacity-90">Try Demo →</a>
+          <a href="/posts/elasticsearch-search-sauce" class="text-center text-sm text-accent hover:underline">Read the implementation ↗</a>
+        </div>
+      </div>
+
+    </div>
+  </Main>
+</Layout>
