@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://anit.github.io/",
   author: "Anit Rai",
   profile: "",
-  desc: "Fractional CTO & Infrastructure Architect. I help startups build reliable infra and ship faster.",
+  desc: "MVP builder. I use AI to build, deploy, and hand off your product fast, end-to-end.",
   title: "Anit Rai",
   ogImage: "anit-og.png",
   lightAndDarkMode: true,

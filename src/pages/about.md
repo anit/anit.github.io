@@ -3,36 +3,33 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm a software engineer and architect with 10+ years building production systems —
-from React frontends to Kubernetes clusters to data compliance pipelines.
+I'm a software engineer with 10+ years building production systems, from
+React frontends to Kubernetes clusters to data compliance pipelines.
 
-I've co-founded a company, led engineering teams, and I still write production code.
+I've co-founded a company, led engineering teams, and I still write code
+every day.
 
 ### What I actually do
 
-I help startups and growing engineering teams with three things:
+You bring the idea, I build it. I use AI to fast-track MVPs end-to-end: I
+build it, deploy it, and hand it off clean, so you can take it to a full
+team, hire your own engineers, or keep running it yourself.
 
-**Infrastructure that doesn't bleed money.**
-Most teams overpay AWS by 10–20%. I find the waste, fix the architecture, and
-make sure it doesn't come back.
-
-**Systems that can scale without a rewrite.**
-Microservices, event-driven architecture, Kubernetes — done pragmatically,
-not because it's fashionable.
-
-**Technical leadership without the overhead.**
-Fractional CTO or Architect-on-call. I make opinionated decisions, document
-the tradeoffs, and get out of the way.
+It's not a throwaway prototype. I've spent a decade building systems that
+hold up under real traffic and real teams, so what you get is something
+that still works six months in, not just something that demos well once.
 
 ### How I think
 
-I'm a generalist who goes deep. I'll never sell you a migration you don't need.
-I prefer boring technology that works over clever technology that doesn't.
+I'm a generalist who goes deep. AI makes me faster, not sloppier: I'm still
+making the same calls I'd make writing every line by hand, I just get there
+quicker. I prefer boring technology that works over clever technology that
+doesn't.
 
-### Currently available for
+### Also available for
 
-- Fractional CTO / Architect engagements
-- AWS infrastructure audits (fixed scope, fixed price)
-- Kubernetes and microservices architecture reviews
+- Infrastructure and cost audits (fixed scope, fixed price)
+- Architecture reviews for teams past the MVP stage
+- Fractional CTO / architect-on-call work
 
 → [anitrai011@gmail.com](mailto:anitrai011@gmail.com)
