@@ -2,7 +2,6 @@
 title: "Storing data in the wrong country is now a compliance violation. Here's how we built for that."
 pubDatetime: 2025-10-30T00:00:00Z
 tags: [compliance, architecture, data-privacy]
-persona: cxo
 description: "GDPR was just the start. HIPAA, India's DPDP Act, and a dozen more regulations all ask the same question: where does this data actually live? Here's how I architect for that at runtime, automatically, for every record."
 ---
 
